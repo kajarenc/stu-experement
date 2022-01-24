@@ -2,9 +2,9 @@ import streamlit as st
 
 st.title("Hello World")
 
-x = st.slider("x", 0, 100)
+st.write(st.user_info)
 
-st.write(st.get_uzer_info())
+x = st.slider("x", 0, 100)
 
 
 st.write(x ** 2)

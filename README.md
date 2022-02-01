@@ -1,2 +1,2 @@
-# stu-experement
+# stu-experiment
 Test repo
